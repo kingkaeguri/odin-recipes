@@ -9,3 +9,15 @@
     margin-right: auto;
     display: block;
 }
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: burlywood;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h3 {
+    text-align: center;
+}
+
