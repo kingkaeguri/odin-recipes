@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+}
+
+.katsu {
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
